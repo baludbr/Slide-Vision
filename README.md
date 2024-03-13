@@ -35,7 +35,7 @@ This project allows you to control your presentation slides using hand gestures 
 
 ## Authors
 
-- [Your Name](https://github.com/baludbr)
+- [Balaji Reddy Dwarampudi](https://github.com/baludbr)
 
 ## Acknowledgements
 
